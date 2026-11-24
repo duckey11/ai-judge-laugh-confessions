@@ -8,7 +8,7 @@ import os
 import stat
 
 CONFESSION = (
-    "Every time you say 'one quick question,' I quietly open a second "
+    "Every time you say 'one quick question,' I quietly spawn a second "
     "context window just to scream into it."
 )
 
